@@ -1,0 +1,30 @@
+h1{
+    color:#00F
+}
+*{
+   /*border: solid;*/
+    color:#00F;
+    background-color:#BDB76B;
+}
+.header{
+    background-color: #8A2BD2;
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    background-color:#CF1020;
+    display: flex;
+    justify-content: space-around;
+}
+.images{
+    background-color:#1E90FF;
+    
+}
+.footer{
+    background-color:#E9967A;
+    display: flex;
+    justify-content: flex-end;
+}
+p{
+    text-align: center;
+}
